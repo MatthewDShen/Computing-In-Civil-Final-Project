@@ -1,8 +1,8 @@
 ﻿Timestamp,Are you:,Age Group:,Gender:,Average Family Income:,Type of Residence:,Preferred Mode of Transportation for travel between campuses/ in campus:,"If you use the NYU Bus system, which route do you use the most?:",Average travel time of preferred mode (min):,Average cost of preferred mode:,Origin of Trip:,Destination of Trip:,"Main purpose of trip (Classes, shopping, food, etc.):","Inconveniences of preferred mode of transportation (long walking distances, expensive costs, waiting period, etc.):","Comforts (when applicable) of preferred mode of transportation (cleanliness, safety, seating availability, etc.):"
-12/20/2020 10:58,Underdraduate,18-22,Female,$61k-$80k,Live with Parents at home,MTA Transit,,40,5.5,Tandon ,Tandon,Classes,Waiting Period,Cost
+12/20/2020 10:58,Underdraduate,18-22,Female,$61k-$80k,Live with Parents at home,MTA Transit/Subway,,40,5.5,Tandon ,Tandon,Classes,Waiting Period,Cost
 12/20/2020 10:59,Underdraduate,18-22,Male,$41k-$60k,Dorming,Bike,,12,0,Lafayette,Tandon,"Classes, Work",Weather,"Efficiency, Space, Clean"
-12/20/2020 13:08,Underdraduate,18-22,Female,> $100k,Dorming,MTA Transit,,20,5.5,Lafayette,Washington Square,"Classes, Food, Shopping",Waiting Period,Speed
-12/20/2020 13:20,Underdraduate,18-22,Female,> $100k,Dorming,MTA Transit,,60,5.5,Union Square,Tandon,Classes,Cost,Speed
+12/20/2020 13:08,Underdraduate,18-22,Female,> $100k,Dorming,MTA Transit/Subway,,20,5.5,Lafayette,Washington Square,"Classes, Food, Shopping",Waiting Period,Speed
+12/20/2020 13:20,Underdraduate,18-22,Female,> $100k,Dorming,MTA Transit/Subway,,60,5.5,Union Square,Tandon,Classes,Cost,Speed
 12/20/2020 20:05,Underdraduate,18-22,Male,$41k-$60k,Dorming,Bike,,12,$0 ,Lafayette,Tandon,"Classes, Work",Weather,"Efficiency, Space, Clean"
 12/21/2020 16:13,Underdraduate,18-22,Male,< $28k,Live on my own,Walking,Route A,20,$0 ,Park Slope,Tandon,Classes,Weather,Cost
 12/21/2020 16:13,Underdraduate,18-22,Male,$41k-$60k,Live with Parents at home,MTA Transit/Subway,Route F,40,5.5,Tandon ,Tandon,Classes,Duration,
