@@ -1,126 +1,125 @@
-﻿Timestamp,Are you ,Age Group:,Gender:,Average Family Income:,Type of Residence,Preferred Mode of Transportation for travel between campuses/ in campus,"If you use the NYU Bus system, which route do you use the most? ",Average travel time of preferred mode (min),Average cost of preferred mode,Origin of Trip ,Destination of Trip,"Main purpose of trip (Classes, shopping, food, etc.) :","Inconveniences of preferred mode of transportation (long walking distances, expensive costs, waiting period, etc.)","Comforts (when applicable) of preferred mode of transportation (cleanliness, safety, seating availability, etc.)"
-12/20/2020 10:58:34,Underdraduate,18-22,Female,$61k-$80k,Live with Parents at home,MTA Transit,,40,5.5,Tandon ,Tandon,Classes,Waiting Period,Cost
-12/20/2020 10:59:50,Underdraduate,18-22,Male,$41k-$60k,Dorming,Bike,,12,0,Lafayette,Tandon,"Classes, Work",Weather,"Efficiency, Space, Clean"
-12/20/2020 13:08:12,Underdraduate,18-22,Female,> $100k,Dorming,MTA Transit,,20,5.5,Lafayette,Washington Square,"Classes, Food, Shopping",Waiting Period,Speed
-12/20/2020 13:20:05,Underdraduate,18-22,Female,> $100k,Dorming,MTA Transit,,60,5.5,Union Square,Tandon,Classes,Cost,Speed
-12/20/2020 20:05:50,Underdraduate,18-22,Male,$41k-$60k,Dorming,Bike,,12,$0,Lafayette,Tandon,"Classes, Work",Weather,"Efficiency, Space, Clean"
-12/21/2020 16:13:02,Underdraduate,18-22,Male,< $28k,Live on my own,Walking,Route A,20,$0,Park Slope,Tandon,Classes,Weather,Cost
-12/21/2020 16:13:37,Underdraduate,18-22,Male,$41k-$60k,Live with Parents at home,MTA Transit/Subway,Route F,40,5.5,Tandon ,Tandon,Classes,Duration,
-12/21/2020 16:14:24,Graduate,23-28,Male,$81k-$100k,Live on my own,MTA Transit/Subway,,25,5.5,Tandon ,Washington Square,Classes,Cost,"Cleanliness, Reliability"
-12/21/2020 16:14:37,Faculty/staff,28-35,Female,$81k-$100k,Live on my own,MTA Transit/Subway,,20,5.5,Tandon ,Washington Square,Classes,"Safety, Weather","Frequency, Speed"
-12/21/2020 16:15:50,Graduate,23-28,Male,$28k-$40k,Live on my own,MTA Transit/Subway,,25,5.5,Bayridge,Tandon,Classes,Waiting Period,Seating Availability
-12/21/2020 16:16:09,Underdraduate,18-22,Male,$41k-$60k,Live on my own,MTA Transit/Subway,Route A,25,5.5,Tandon ,Washington Square,Recreation,Cost,Frequency
-12/21/2020 16:16:18,Faculty/staff,28-35,Male,$61k-$80k,Live with Parents at home,MTA Transit/Subway,,50,5.5,Tandon ,Tandon,Work,Duration,"Clean, Safety, Speed, Reliability"
-12/21/2020 16:18:16,Underdraduate,18-22,Male,> $100k,Live on my own,MTA Transit/Subway,,20,5.5,Washington Square,Tandon,Classes,Duration,"Speed, Cost, Seating Availability"
-12/21/2020 16:18:52,Underdraduate,18-22,Female,> $100k,Live with Parents at home,MTA Transit/Subway,,90,13,Bronx ,Tandon,Classes,"Cost, Duration","Seating Availability, Safety"
-12/21/2020 16:19:39,Underdraduate,18-22,Female,> $100k,Dorming,Taxi/ Uber/ Lyft,Route A,15,20,Lafayette,Tandon,Classes,Cost,"Safety, Speed"
-12/21/2020 16:21:45,Underdraduate,18-22,Female,< $28k,Live on my own,Walking,Route A,7,0,Fort Green,Tandon,Classes,Weather ,Comfortable
-12/21/2020 16:22:46,Graduate,23-28,Male,$41k-$60k,Live on my own,MTA Transit/Subway,,20,5.5,Tandon ,Tandon,Classes,Waiting Period,Seating Availability
-12/21/2020 16:23:35,Underdraduate,18-22,Female,> $100k,Live with Parents at home,MTA Transit/Subway,,30,$5,Tandon ,Tandon,Classes,Waiting Period,"Clean, Safety"
-12/21/2020 16:24:20,Underdraduate,18-22,Female,$41k-$60k,Live with Parents at home,MTA Transit/Subway,,50,$5.50,Tandon ,Tandon,Classes,Distance,"Clean, Safety"
-12/21/2020 16:32:05,Underdraduate,18-22,Male,$28k-$40k,Live with Parents at home,MTA Transit/Subway,,90,$5.50,Tandon ,Tandon,Classes,Weather,
-12/21/2020 16:36:23,Underdraduate,18-22,Male,$61k-$80k,Live with Parents at home,MTA Transit/Subway,Route A,90,5.5,Tandon ,Tandon,Classes,Waiting Period,Safety
-12/21/2020 16:42:02,Faculty/staff,> 40,Female,> $100k,Live on my own,MTA Transit/Subway,,20,3.25,Lafayette,Tandon,Classes,Safety,"Speed, Reliability"
-12/21/2020 16:42:47,Faculty/staff,> 40,Male,> $100k,Live on my own,NYU Bus Shuttle System,Route A,20,$0,Washington Square,Tandon,"Classes, Work",,"Safety, Clean, Comfortable"
-12/21/2020 16:46:41,Graduate,28-35,Female,$28k-$40k,Live on my own,MTA Transit/Subway,,25,5.5,Tandon ,Washington Square,Classes,Unreliability ,Seating Availability 
-12/21/2020 16:52:37,Underdraduate,18-22,Female,> $100k,Live with Parents at home,MTA Transit/Subway,,90,13,Bronx ,Tandon,Classes,"Cost, Duration","Seating Availability, Safety"
-12/21/2020 17:02:11,Graduate,23-28,Male,$61k-$80k,Live with Parents at home,MTA Transit/Subway,,45,5.5,Queens,Tandon,Classes,Distance,Seating Availability 
-12/21/2020 17:02:27,Underdraduate,18-22,Male,$61k-$80k,Dorming,Walking,,10,0,Clark ,Tandon,Classes,,"Speed, Comfortable"
-12/21/2020 17:05:17,Faculty/staff,> 40,Male,> $100k,Live on my own,MTA Transit/Subway,,20,5.5,Washington Square,Washington Square,Work,"Waiting Period, Safety",Clean
-12/21/2020 17:10:59,Graduate,28-35,Male,$28k-$40k,Live on my own,Bike,,20,0,Tandon ,Washington Square,Food,Safety,"Speed, Clean, Cost"
-12/21/2020 17:16:35,Underdraduate,18-22,Male,$28k-$40k,Live with Parents at home,Walking,,10,0,Tandon ,Tandon,"Classes, Food",Weather,Speed
-12/21/2020 17:50:36,Underdraduate,18-22,Male,$41k-$60k,Live with Parents at home,Personal Vehicle,,80,40,Stamford CT,Stamford CT,Class,Cost,Frequency
-12/21/2020 18:14:52,Faculty/staff,> 40,Male,$81k-$100k,Live on my own,NYU Bus Shuttle System,,15,$5,Grand Central ,Tandon,Work,Waiting Period,Safety
-12/21/2020 18:39:53,Graduate,23-28,Female,> $100k,Live on my own,Walking,Route A,5,0,Tandon ,Washington Square,Classes,,Speed
-12/21/2020 19:09:20,Underdraduate,18-22,Female,< $28k,Live on my own,MTA Transit/Subway,Route A,20,5.5,Park Slope,Tandon,Classes,Cost,Safety
-12/21/2020 19:22:31,Underdraduate,18-22,Female,$28k-$40k,Live with Parents at home,MTA Transit/Subway,Route A,120,$5.50,Tandon ,Tandon,Classes,"Duration, Distance",Reliability
-12/21/2020 19:33:31,Underdraduate,18-22,Male,$28k-$40k,Live with Parents at home,MTA Transit/Subway,Route A,20,$5.50,Tandon ,Washington Square,"Classes, Food",Waiting Period,Seating Availability 
-12/21/2020 19:47:11,Underdraduate,18-22,Male,> $100k,Live with Parents at home,MTA Transit/Subway,,45,5.5,Tandon ,Tandon,Classes,"Duration, Crowdedness",Seating Availability 
-12/21/2020 20:09:55,Graduate,> 40,Male,> $100k,Live on my own,NYU Bus Shuttle System,,20,0,Washington Square,Tandon,Classes,,"Clean, Comfortable"
-12/21/2020 20:35:27,Underdraduate,18-22,Female,$41k-$60k,Live on my own,MTA Transit/Subway,Route A,25,5.5,Tandon ,Tandon,"Classes, Shopping, Food","Safety, Cost",Cost
-12/21/2020 20:41:41,Graduate,> 40,Male,> $100k,Live on my own,NYU Bus Shuttle System,,20,0,Washington Square,Tandon,Classes,,Clean
-12/21/2020 20:59:41,Underdraduate,18-22,Male,> $100k,Live on my own,NYU Bus Shuttle System,Route F,45,0,Gramercy Green,Tandon,Classes,Waiting Period,"Safety, Comfortable"
-12/22/2020 0:03:11,Underdraduate,18-22,Male,< $28k,Live on my own,MTA Transit/Subway,Route A,45,5.5,Tandon ,Washington Square,Classes,"Waiting Period, Safety",
-12/22/2020 0:28:27,Underdraduate,18-22,Female,> $100k,Live on my own,MTA Transit/Subway,Route A,10,$5.50,Delancey ,Tandon,Classes,"Cost, Duration",Speed
-12/22/2020 6:44:55,Underdraduate,18-22,Female,$28k-$40k,Live with Parents at home,MTA Transit/Subway,,30,5.5,Tandon ,Tandon,Classes,"Waiting Period, Crowdedness",
-12/22/2020 12:39:36,Underdraduate,18-22,Male,$61k-$80k,Live with Parents at home,MTA Transit/Subway,Route E,150,$5.50,Washington Square,Washington Square,Classes,"Waiting Period, Duration",Cost
-12/22/2020 14:46:56,Underdraduate,18-22,Female,> $100k,Live on my own,NYU Bus Shuttle System,Route A,30,$0,Tandon ,Washington Square,Recreation,Waiting Period,"Clean, Safety, Comfortable"
-12/22/2020 20:29:49,Underdraduate,18-22,Female,< $28k,Dorming,Walking,Route E,15,0,Founders,Washington Square,Classes,Weather,Clean
-12/23/2020 16:57:50,Underdraduate,18-22,Male,> $100k,Live on my own,MTA Transit/Subway,,16,5.5,Spring Street ,Washington Square,Classes,"Waiting Period, Duration",Seating Availability 
-12/24/2020 11:35:45,Underdraduate,18-22,Male,$81k-$100k,Dorming,MTA Transit/Subway,Route A,30,5.5,Lafayette,Tandon,"Classes, Work",Cost,Frequency
-12/24/2020 15:35:59,Underdraduate,18-22,Female,$28k-$40k,Live with Parents at home,MTA Transit/Subway,Route A,30,$5.50,Tandon ,Tandon,Classes,"Cost, Unreliability","Clean, Speed"
-12/24/2020 16:08:44,Underdraduate,18-22,Male,$41k-$60k,Dorming,Walking,,10,$0,Tandon ,Tandon,"Classes, Food","Distance, Unreliability",Comfortable
-12/28/2020 14:28:23,Underdraduate,18-22,Male,$81k-$100k,Dorming,NYU Bus Shuttle System,Route A,25,0,Tandon ,Tandon,Classes,Waiting Period,Clean
-12/28/2020 14:40:37,Underdraduate,18-22,Male,> $100k,Dorming,Walking,,15,0,Washington Square,Washington Square,Classes,"Duration, Weather",Cost
-12/28/2020 14:48:35,Underdraduate,18-22,Female,> $100k,Dorming,Walking,Route E,35,$0,Gramercy Green,Washington Square,Classes,"Distance, Weather","Speed, Frequency, Reliability  "
-12/28/2020 14:57:26,Underdraduate,18-22,Female,$81k-$100k,Dorming,Walking,Route A,40,0,Lafayette,Tandon,Work,"Weather, Distance","Speed, Comfortable"
-12/28/2020 15:04:01,Faculty/staff,23-28,Male,$61k-$80k,Live on my own,MTA Transit/Subway,Route A,30,$3,Stuyvesant Town,Washington Square,Work,"Waiting Period, Duration, Safety, Unreliability","Frequency, Comfortable"
-12/28/2020 15:41:32,Underdraduate,18-22,Female,$41k-$60k,Live with Parents at home,MTA Transit/Subway,,40,$5.50,Tandon ,Tandon,Classes,"Safety, Duration",Comfortable
-12/28/2020 16:00:26,Underdraduate,18-22,Male,> $100k,Dorming,Walking,,15,0,Astor Place,Washington Square,Classes,Weather,"Clean, Safety, Seating Availability, Speed"
-12/28/2020 16:02:38,Underdraduate,18-22,Female,> $100k,Live on my own,MTA Transit/Subway,Route E,30,5.5,Washington Square,Washington Square,Classes,Waiting Period,Seating Availability 
-12/28/2020 16:15:38,Underdraduate,18-22,Male,< $28k,Live with Parents at home,MTA Transit/Subway,,60,5.5,Bronx ,Tandon,Classes,Waiting Period,Seating Availability 
-12/28/2020 16:27:50,Underdraduate,18-22,Male,> $100k,Dorming,Walking,Route B,7,0,Broome,Washington Square,Classes,Waiting Period,"Clean, Comfortable, Safety"
-12/28/2020 16:48:17,Underdraduate,18-22,Female,< $28k,Live with Parents at home,MTA Transit/Subway,,150,$5.50,Washington Square,Washington Square,Classes,"Waiting Period, Distance, Cost, Duration",
-12/28/2020 17:04:30,Underdraduate,18-22,Female,> $100k,Live on my own,NYU Bus Shuttle System,Route E,30,0,Gramercy Green,Washington Square,classes,Distance,"Clean, Safety, Seating Availability "
-12/28/2020 17:11:51,Underdraduate,18-22,Male,> $100k,Live on my own,MTA Transit/Subway,,20,6,Washington Square,Washington Square,Classes,"Distance, Duration",Cost
-12/28/2020 17:16:42,Underdraduate,18-22,Female,> $100k,Live with Parents at home,Walking,Route C,15,0,Washington Square,Washington Square,Classes,"Safety, Weather","Cost, Reliability"
-12/28/2020 17:30:36,Underdraduate,18-22,Female,$81k-$100k,Dorming,Walking,Route A,15,0,Penn Station ,Washington Square,Classes,Cost,Cost
-12/28/2020 17:37:19,Underdraduate,18-22,Female,$81k-$100k,Dorming,NYU Bus Shuttle System,Route A,25,0,Lafayette,Tandon,"Classes, Food",Unreliability ,Frequency
-12/28/2020 17:37:54,Underdraduate,18-22,Female,$41k-$60k,Dorming,NYU Bus Shuttle System,Route E,15,$0,Gramercy Green,Washington Square,Classes,Unreliability ,"Safety, Cost"
-12/28/2020 17:48:41,Alumni,23-28,Female,> $100k,Live on my own,Walking,Route A,20,0,Gramercy Green,Gramercy Green,Classes,Distance,Frequency
-12/28/2020 18:00:53,Underdraduate,18-22,Female,> $100k,Live on my own,MTA Transit/Subway,Route E,30,5.5,Washington Square,Tandon,"Classes, Food, Shopping, Work","Waiting Period, Cost, Safety",
-12/28/2020 18:06:51,Underdraduate,18-22,Female,$81k-$100k,Dorming,Walking,Route E,5,$0,Union Square,Washington Square,Classes,"Unreliability, Waiting Period","Clean, Comfortable, Safety"
-12/28/2020 18:55:18,Underdraduate,18-22,Male,> $100k,Live with Parents at home,MTA Transit/Subway,,20,$5.50,Washington Square,Washington Square,"Classes, Recreation",Cost,"Speed, Frequency "
-12/28/2020 18:58:01,Underdraduate,18-22,Male,$81k-$100k,Dorming,NYU Bus Shuttle System,Route A,25,0,Washington Square,Tandon,Work,Unreliability,
-12/28/2020 18:58:53,Underdraduate,18-22,Male,> $100k,Live on my own,MTA Transit/Subway,Route A,15,5.5,Tandon ,Washington Square,Classes,"Cost, Safety",Speed
-12/28/2020 19:50:16,Underdraduate,18-22,Nonbinary,> $100k,Dorming,NYU Bus Shuttle System,Route F,20,0,Gramercy Green,Washington Square,Classes,"Waiting Period, Crowdedness",Comfortable
-12/28/2020 20:14:27,Underdraduate,18-22,Female,> $100k,Dorming,Walking,,20,0,Gould Plaza,Washington Square,Classes,Safety,Frequency
-12/28/2020 20:17:14,Underdraduate,18-22,Male,$41k-$60k,Live on my own,NYU Bus Shuttle System,Route A,45,0,Washington Square,Tandon,Classes,"Unreliability, Waiting Period",Cost
-12/28/2020 20:51:16,Alumni,18-22,Female,$81k-$100k,Live on my own,NYU Bus Shuttle System,Route E,30,0,Washington Square,Tandon,Work,"Waiting Period, Unreliability","Clean, Safety, Seating Availability "
-12/28/2020 21:08:36,Underdraduate,18-22,Male,$41k-$60k,Dorming,Walking,,45,0,Washington Square,Washington Square,"Food, Shopping",Distance,"Comfortable, Safety"
-12/28/2020 21:34:11,Underdraduate,18-22,Male,$41k-$60k,Dorming,NYU Bus Shuttle System,Route F,10,0,Gramercy Green,Gramercy Green,Classes,Waiting Period,Frequency
-12/28/2020 21:37:19,Underdraduate,18-22,Female,> $100k,Dorming,Walking,,15,0,Coral Tower,Washington Square,Classes,"Distance, Weather",Comfortable
-12/28/2020 22:14:10,Graduate,23-28,Male,$41k-$60k,Live on my own,MTA Transit/Subway,,35,5.5,Ridgewood ,Lafayette,Classes,,Speed
-12/28/2020 22:15:31,Underdraduate,18-22,Female,$28k-$40k,Dorming,NYU Bus Shuttle System,Route E,60,$0,Gramercy Green,Washington Square,Work,Waiting Period,Speed
-12/28/2020 22:26:52,Underdraduate,18-22,Female,> $100k,Live on my own,Walking,,15,0,Stuyvesant Town,Washington Square,Classes,Weather,Comfortable 
-12/28/2020 23:13:56,Underdraduate,18-22,Male,$61k-$80k,Dorming,NYU Bus Shuttle System,Route B,30,$0,Broome,Washington Square,Classes,"Waiting Period, Unreliability",Seating Availability 
-12/29/2020 0:02:23,Underdraduate,18-22,Female,$81k-$100k,Dorming,NYU Bus Shuttle System,Route E,15,0,Gramercy Green,Washington Square,Classes,"Waiting Period, Unreliability","Cost, Reliability"
-12/29/2020 5:45:45,Underdraduate,18-22,Male,< $28k,Dorming,Walking,Route E,25,0,Third Ave,Washington Square,Recreation,Weather,Cost
-12/29/2020 6:40:59,Underdraduate,18-22,Female,> $100k,Dorming,NYU Bus Shuttle System,Route F,7,$0,Gramercy Green,Washington Square,Classes,Duration,"Seating Availability, Reliability"
-12/29/2020 10:43:27,Underdraduate,18-22,Female,< $28k,Dorming,MTA Transit/Subway,,10,5,Lafayette,Lafayette,Food,Cost,"Safety, Seating Availability"
-12/29/2020 10:49:24,Underdraduate,18-22,Female,> $100k,Live on my own,MTA Transit/Subway,,20,$4,Greenwich Village,Greenwich Village,Classes,Unreliability,"Comfortable, Seating Availability"
-12/29/2020 11:47:23,Underdraduate,18-22,Female,> $100k,Dorming,MTA Transit/Subway,Route A,15,4.5,Greenwich Village,Tandon,Classes,"Cost, Unreliability","Reliability, Seating Availability"
-12/29/2020 13:12:02,Adjunct faculty,> 40,Male,> $100k,Live on my own,Personal Vehicle,,30,0,Tandon ,Tandon,Work,Unreliability,Reliability
-12/29/2020 14:06:09,Underdraduate,18-22,Nonbinary,> $100k,Dorming,NYU Bus Shuttle System,Route F,20,0,Gramercy Green,Washington Square,Classes,"Waiting Period, Crowdedness",Comfortable
-12/29/2020 15:41:04,Underdraduate,18-22,Nonbinary,$61k-$80k,Dorming,Walking,Route B,25,$0,Lafayette,Penn Station,Classes,"Weather, Safety","Safety, Comfortable"
-12/30/2020 15:03:48,Graduate,23-28,Female,> $100k,Dorming,MTA Transit/Subway,,30,5.5,Penn Station ,Tandon,Classes ,Unreliability,"Safety, Seating Availability"
-12/30/2020 15:05:42,Underdraduate,18-22,Female,$28k-$40k,Live with Parents at home,MTA Transit/Subway,,60,5.5,Bronx ,Washington Square,Classes,Waiting Period,Seating Availability 
-12/31/2020 0:11:21,Graduate,23-28,Male,> $100k,Live on my own,MTA Transit/Subway,,20,5.5,East Village,Tandon,Classes,,Reliability
-12/31/2020 3:54:07,Underdraduate,18-22,Female,$61k-$80k,Live with Parents at home,MTA Transit/Subway,,80,5.5,Queens,Tandon,Classes,Duration,"Seating Availability, Reliability"
-12/31/2020 11:46:59,Underdraduate,18-22,Female,< $28k,Dorming,MTA Transit/Subway,Route A,25,5.5,Tandon ,Washington Square,"Shopping, Food",Safety,Reliability
-1/1/2021 17:00:13,Underdraduate,18-22,Female,< $28k,Live with Parents at home,NYU Bus Shuttle System,Route A,10,$0.00,Tandon ,Washington Square,"Classes, Food","Waiting Period, Distance, Unreliability",
-1/3/2021 0:25:46,Underdraduate,18-22,Male,$61k-$80k,Dorming,Personal Vehicle,Route A,15,1,Lafayette,Washington Square,Classes,Safety,Cost
-1/20/2021 13:28:04,Underdraduate,18-22,Female,$81k-$100k,Live with Parents at home,Taxi/ Uber/ Lyft,,30,$25,Queens,Tandon,Classes,Cost,Safety 
-1/20/2021 13:32:49,Underdraduate,18-22,Male,< $28k,Dorming,MTA Transit/Subway,,30,6,Union Square,Tandon,Classes,Unreliability,Frequency
-1/20/2021 13:36:32,Underdraduate,18-22,Male,$41k-$60k,Live with Parents at home,MTA Transit/Subway,,75,$5.50 ,East Elmhurst,Tandon,Work,Duration,Seating Availability. 
-1/20/2021 13:41:14,Underdraduate,18-22,Male,$28k-$40k,Live with Parents at home,MTA Transit/Subway,,60,5.5,Hunts Point,Hunts Point,Classes,Cost,
-1/20/2021 14:03:54,Underdraduate,18-22,Female,< $28k,Dorming,MTA Transit/Subway,Route A,30,5.5,Lafayette,Lafayette,"Classes, Work","Distance, Cost, Unreliability, Safety", 
-1/20/2021 14:35:22,Underdraduate,18-22,Male,$81k-$100k,Live with Parents at home,MTA Transit/Subway,Route A,25,5.25,Tandon ,Tandon,"Shopping, Food ",Crowdedness,"Reliability, Reliability"
-1/20/2021 14:40:18,Underdraduate,18-22,Male,< $28k,Dorming,Walking,Route A,20,0,Tandon ,Washington Square,"Classes, Shopping, Food",Waiting Period,Cost
-1/20/2021 16:02:29,Underdraduate,18-22,Male,$28k-$40k,Dorming,Taxi/ Uber/ Lyft,Route B,15,15,Tandon ,Tandon,Food,Distance,Safety
-1/20/2021 17:58:11,Underdraduate,18-22,Male,$28k-$40k,Dorming,MTA Transit/Subway,,30,5.5,Lafayette,Tandon,Work,"Distance, Waiting Period",Cost
-1/20/2021 20:09:11,Underdraduate,18-22,Male,$61k-$80k,Live with Parents at home,MTA Transit/Subway,,30,$5.50,Tandon ,Washington Square,Classes,Waiting Period,Frequency
-1/20/2021 20:25:59,Underdraduate,18-22,Female,< $28k,Live with Parents at home,MTA Transit/Subway,Route A,45,5.5,Brownsville,Tandon,Classes,Unreliability,Cost
-1/21/2021 0:21:15,Underdraduate,18-22,Female,$61k-$80k,Dorming,Walking,Route B,15,0,Lafayette,Washington Square,Recreation,"Distance, Safety",Comfortable
-1/21/2021 10:47:01,Underdraduate,18-22,Male,$28k-$40k,Live with Parents at home,MTA Transit/Subway,,150,$5.50,Tandon ,Tandon,Classes,Duration,
-1/21/2021 11:53:48,Underdraduate,18-22,Male,$28k-$40k,Live with Parents at home,MTA Transit/Subway,,45,$5.25,East New York,Tandon,Classes,Waiting Period,Reliability
-1/21/2021 15:05:54,Underdraduate,18-22,Male,$28k-$40k,Live on my own,MTA Transit/Subway,Route A,30,5.5,Lafayette,Tandon,"Classes, Work","Unreliability, Safety",
-1/21/2021 16:35:46,Underdraduate,18-22,Male,$61k-$80k,Dorming,MTA Transit/Subway,Route A,20,$5.50,Lafayette,Tandon,"Classes, Work, Food",Waiting period ,"Clean, Safety, Seating Availability"
-1/21/2021 20:34:28,Underdraduate,18-22,Male,$61k-$80k,Live with Parents at home,MTA Transit/Subway,,50,5.5,East Elmhurst,Tandon,Classes,Waiting period,Seating Availability
-1/22/2021 17:14:09,Underdraduate,18-22,Female,$61k-$80k,Dorming,MTA Transit/Subway,Route A,15,5.25,Tandon ,Washington Square,Food,Cost,Frequency
-1/22/2021 20:34:00,Underdraduate,18-22,Male,$61k-$80k,Live with Parents at home,MTA Transit/Subway,,90,$20,Brentwood  ,Tandon,Classes,"Duration, Distance, Cost, Waiting Period",
-1/23/2021 4:06:41,Underdraduate,18-22,Male,> $100k,Dorming,MTA Transit/Subway,Route F,30,5.5,Gramercy Green,Tandon,Classes,Crowdedness,Reliability
-1/28/2021 3:51:52,Underdraduate,18-22,Female,$28k-$40k,Live with Parents at home,MTA Transit/Subway,Route A,90,$5.50,Bronx ,Bronx,Classes,Unreliability,Seating Availability
-1/28/2021 9:41:09,Underdraduate,18-22,Male,< $28k,Dorming,Walking,Route B,60,$0,Lafayette,Lafayette,Food,Duration,Cost
-1/28/2021 10:39:00,Underdraduate,18-22,Female,$28k-$40k,Live with Parents at home,MTA Transit/Subway,Route A,90,$5.50,Bronx ,Bronx,Classes,Unreliability,Seating Availability
-,,,,,,,,,,,,,,
+﻿Timestamp,Are you:,Age Group:,Gender:,Average Family Income:,Type of Residence:,Preferred Mode of Transportation for travel between campuses/ in campus:,"If you use the NYU Bus system, which route do you use the most?:",Average travel time of preferred mode (min):,Average cost of preferred mode:,Origin of Trip:,Destination of Trip:,"Main purpose of trip (Classes, shopping, food, etc.):","Inconveniences of preferred mode of transportation (long walking distances, expensive costs, waiting period, etc.):","Comforts (when applicable) of preferred mode of transportation (cleanliness, safety, seating availability, etc.):"
+12/20/2020 10:58,Underdraduate,18-22,Female,$61k-$80k,Live with Parents at home,MTA Transit,,40,5.5,Tandon ,Tandon,Classes,Waiting Period,Cost
+12/20/2020 10:59,Underdraduate,18-22,Male,$41k-$60k,Dorming,Bike,,12,0,Lafayette,Tandon,"Classes, Work",Weather,"Efficiency, Space, Clean"
+12/20/2020 13:08,Underdraduate,18-22,Female,> $100k,Dorming,MTA Transit,,20,5.5,Lafayette,Washington Square,"Classes, Food, Shopping",Waiting Period,Speed
+12/20/2020 13:20,Underdraduate,18-22,Female,> $100k,Dorming,MTA Transit,,60,5.5,Union Square,Tandon,Classes,Cost,Speed
+12/20/2020 20:05,Underdraduate,18-22,Male,$41k-$60k,Dorming,Bike,,12,$0 ,Lafayette,Tandon,"Classes, Work",Weather,"Efficiency, Space, Clean"
+12/21/2020 16:13,Underdraduate,18-22,Male,< $28k,Live on my own,Walking,Route A,20,$0 ,Park Slope,Tandon,Classes,Weather,Cost
+12/21/2020 16:13,Underdraduate,18-22,Male,$41k-$60k,Live with Parents at home,MTA Transit/Subway,Route F,40,5.5,Tandon ,Tandon,Classes,Duration,
+12/21/2020 16:14,Graduate,23-28,Male,$81k-$100k,Live on my own,MTA Transit/Subway,,25,5.5,Tandon ,Washington Square,Classes,Cost,"Cleanliness, Reliability"
+12/21/2020 16:14,Faculty/staff,28-35,Female,$81k-$100k,Live on my own,MTA Transit/Subway,,20,5.5,Tandon ,Washington Square,Classes,"Safety, Weather","Frequency, Speed"
+12/21/2020 16:15,Graduate,23-28,Male,$28k-$40k,Live on my own,MTA Transit/Subway,,25,5.5,Bayridge,Tandon,Classes,Waiting Period,Seating Availability
+12/21/2020 16:16,Underdraduate,18-22,Male,$41k-$60k,Live on my own,MTA Transit/Subway,Route A,25,5.5,Tandon ,Washington Square,Recreation,Cost,Frequency
+12/21/2020 16:16,Faculty/staff,28-35,Male,$61k-$80k,Live with Parents at home,MTA Transit/Subway,,50,5.5,Tandon ,Tandon,Work,Duration,"Clean, Safety, Speed, Reliability"
+12/21/2020 16:18,Underdraduate,18-22,Male,> $100k,Live on my own,MTA Transit/Subway,,20,5.5,Washington Square,Tandon,Classes,Duration,"Speed, Cost, Seating Availability"
+12/21/2020 16:18,Underdraduate,18-22,Female,> $100k,Live with Parents at home,MTA Transit/Subway,,90,13,Bronx ,Tandon,Classes,"Cost, Duration","Seating Availability, Safety"
+12/21/2020 16:19,Underdraduate,18-22,Female,> $100k,Dorming,Taxi/ Uber/ Lyft,Route A,15,20,Lafayette,Tandon,Classes,Cost,"Safety, Speed"
+12/21/2020 16:21,Underdraduate,18-22,Female,< $28k,Live on my own,Walking,Route A,7,0,Fort Green,Tandon,Classes,Weather ,Comfortable
+12/21/2020 16:22,Graduate,23-28,Male,$41k-$60k,Live on my own,MTA Transit/Subway,,20,5.5,Tandon ,Tandon,Classes,Waiting Period,Seating Availability
+12/21/2020 16:23,Underdraduate,18-22,Female,> $100k,Live with Parents at home,MTA Transit/Subway,,30,$5 ,Tandon ,Tandon,Classes,Waiting Period,"Clean, Safety"
+12/21/2020 16:24,Underdraduate,18-22,Female,$41k-$60k,Live with Parents at home,MTA Transit/Subway,,50,$5.50 ,Tandon ,Tandon,Classes,Distance,"Clean, Safety"
+12/21/2020 16:32,Underdraduate,18-22,Male,$28k-$40k,Live with Parents at home,MTA Transit/Subway,,90,$5.50 ,Tandon ,Tandon,Classes,Weather,
+12/21/2020 16:36,Underdraduate,18-22,Male,$61k-$80k,Live with Parents at home,MTA Transit/Subway,Route A,90,5.5,Tandon ,Tandon,Classes,Waiting Period,Safety
+12/21/2020 16:42,Faculty/staff,> 40,Female,> $100k,Live on my own,MTA Transit/Subway,,20,3.25,Lafayette,Tandon,Classes,Safety,"Speed, Reliability"
+12/21/2020 16:42,Faculty/staff,> 40,Male,> $100k,Live on my own,NYU Bus Shuttle System,Route A,20,$0 ,Washington Square,Tandon,"Classes, Work",,"Safety, Clean, Comfortable"
+12/21/2020 16:46,Graduate,28-35,Female,$28k-$40k,Live on my own,MTA Transit/Subway,,25,5.5,Tandon ,Washington Square,Classes,Unreliability ,Seating Availability 
+12/21/2020 16:52,Underdraduate,18-22,Female,> $100k,Live with Parents at home,MTA Transit/Subway,,90,13,Bronx ,Tandon,Classes,"Cost, Duration","Seating Availability, Safety"
+12/21/2020 17:02,Graduate,23-28,Male,$61k-$80k,Live with Parents at home,MTA Transit/Subway,,45,5.5,Queens,Tandon,Classes,Distance,Seating Availability 
+12/21/2020 17:02,Underdraduate,18-22,Male,$61k-$80k,Dorming,Walking,,10,0,Clark ,Tandon,Classes,,"Speed, Comfortable"
+12/21/2020 17:05,Faculty/staff,> 40,Male,> $100k,Live on my own,MTA Transit/Subway,,20,5.5,Washington Square,Washington Square,Work,"Waiting Period, Safety",Clean
+12/21/2020 17:10,Graduate,28-35,Male,$28k-$40k,Live on my own,Bike,,20,0,Tandon ,Washington Square,Food,Safety,"Speed, Clean, Cost"
+12/21/2020 17:16,Underdraduate,18-22,Male,$28k-$40k,Live with Parents at home,Walking,,10,0,Tandon ,Tandon,"Classes, Food",Weather,Speed
+12/21/2020 17:50,Underdraduate,18-22,Male,$41k-$60k,Live with Parents at home,Personal Vehicle,,80,40,Stamford CT,Stamford CT,Class,Cost,Frequency
+12/21/2020 18:14,Faculty/staff,> 40,Male,$81k-$100k,Live on my own,NYU Bus Shuttle System,,15,$5 ,Grand Central ,Tandon,Work,Waiting Period,Safety
+12/21/2020 18:39,Graduate,23-28,Female,> $100k,Live on my own,Walking,Route A,5,0,Tandon ,Washington Square,Classes,,Speed
+12/21/2020 19:09,Underdraduate,18-22,Female,< $28k,Live on my own,MTA Transit/Subway,Route A,20,5.5,Park Slope,Tandon,Classes,Cost,Safety
+12/21/2020 19:22,Underdraduate,18-22,Female,$28k-$40k,Live with Parents at home,MTA Transit/Subway,Route A,120,$5.50 ,Tandon ,Tandon,Classes,"Duration, Distance",Reliability
+12/21/2020 19:33,Underdraduate,18-22,Male,$28k-$40k,Live with Parents at home,MTA Transit/Subway,Route A,20,$5.50 ,Tandon ,Washington Square,"Classes, Food",Waiting Period,Seating Availability 
+12/21/2020 19:47,Underdraduate,18-22,Male,> $100k,Live with Parents at home,MTA Transit/Subway,,45,5.5,Tandon ,Tandon,Classes,"Duration, Crowdedness",Seating Availability 
+12/21/2020 20:09,Graduate,> 40,Male,> $100k,Live on my own,NYU Bus Shuttle System,,20,0,Washington Square,Tandon,Classes,,"Clean, Comfortable"
+12/21/2020 20:35,Underdraduate,18-22,Female,$41k-$60k,Live on my own,MTA Transit/Subway,Route A,25,5.5,Tandon ,Tandon,"Classes, Shopping, Food","Safety, Cost",Cost
+12/21/2020 20:41,Graduate,> 40,Male,> $100k,Live on my own,NYU Bus Shuttle System,,20,0,Washington Square,Tandon,Classes,,Clean
+12/21/2020 20:59,Underdraduate,18-22,Male,> $100k,Live on my own,NYU Bus Shuttle System,Route F,45,0,Gramercy Green,Tandon,Classes,Waiting Period,"Safety, Comfortable"
+12/22/2020 0:03,Underdraduate,18-22,Male,< $28k,Live on my own,MTA Transit/Subway,Route A,45,5.5,Tandon ,Washington Square,Classes,"Waiting Period, Safety",
+12/22/2020 0:28,Underdraduate,18-22,Female,> $100k,Live on my own,MTA Transit/Subway,Route A,10,$5.50 ,Delancey ,Tandon,Classes,"Cost, Duration",Speed
+12/22/2020 6:44,Underdraduate,18-22,Female,$28k-$40k,Live with Parents at home,MTA Transit/Subway,,30,5.5,Tandon ,Tandon,Classes,"Waiting Period, Crowdedness",
+12/22/2020 12:39,Underdraduate,18-22,Male,$61k-$80k,Live with Parents at home,MTA Transit/Subway,Route E,150,$5.50 ,Washington Square,Washington Square,Classes,"Waiting Period, Duration",Cost
+12/22/2020 14:46,Underdraduate,18-22,Female,> $100k,Live on my own,NYU Bus Shuttle System,Route A,30,$0 ,Tandon ,Washington Square,Recreation,Waiting Period,"Clean, Safety, Comfortable"
+12/22/2020 20:29,Underdraduate,18-22,Female,< $28k,Dorming,Walking,Route E,15,0,Founders,Washington Square,Classes,Weather,Clean
+12/23/2020 16:57,Underdraduate,18-22,Male,> $100k,Live on my own,MTA Transit/Subway,,16,5.5,Spring Street ,Washington Square,Classes,"Waiting Period, Duration",Seating Availability 
+12/24/2020 11:35,Underdraduate,18-22,Male,$81k-$100k,Dorming,MTA Transit/Subway,Route A,30,5.5,Lafayette,Tandon,"Classes, Work",Cost,Frequency
+12/24/2020 15:35,Underdraduate,18-22,Female,$28k-$40k,Live with Parents at home,MTA Transit/Subway,Route A,30,$5.50 ,Tandon ,Tandon,Classes,"Cost, Unreliability","Clean, Speed"
+12/24/2020 16:08,Underdraduate,18-22,Male,$41k-$60k,Dorming,Walking,,10,$0 ,Tandon ,Tandon,"Classes, Food","Distance, Unreliability",Comfortable
+12/28/2020 14:28,Underdraduate,18-22,Male,$81k-$100k,Dorming,NYU Bus Shuttle System,Route A,25,0,Tandon ,Tandon,Classes,Waiting Period,Clean
+12/28/2020 14:40,Underdraduate,18-22,Male,> $100k,Dorming,Walking,,15,0,Washington Square,Washington Square,Classes,"Duration, Weather",Cost
+12/28/2020 14:48,Underdraduate,18-22,Female,> $100k,Dorming,Walking,Route E,35,$0 ,Gramercy Green,Washington Square,Classes,"Distance, Weather","Speed, Frequency, Reliability  "
+12/28/2020 14:57,Underdraduate,18-22,Female,$81k-$100k,Dorming,Walking,Route A,40,0,Lafayette,Tandon,Work,"Weather, Distance","Speed, Comfortable"
+12/28/2020 15:04,Faculty/staff,23-28,Male,$61k-$80k,Live on my own,MTA Transit/Subway,Route A,30,$3 ,Stuyvesant Town,Washington Square,Work,"Waiting Period, Duration, Safety, Unreliability","Frequency, Comfortable"
+12/28/2020 15:41,Underdraduate,18-22,Female,$41k-$60k,Live with Parents at home,MTA Transit/Subway,,40,$5.50 ,Tandon ,Tandon,Classes,"Safety, Duration",Comfortable
+12/28/2020 16:00,Underdraduate,18-22,Male,> $100k,Dorming,Walking,,15,0,Astor Place,Washington Square,Classes,Weather,"Clean, Safety, Seating Availability, Speed"
+12/28/2020 16:02,Underdraduate,18-22,Female,> $100k,Live on my own,MTA Transit/Subway,Route E,30,5.5,Washington Square,Washington Square,Classes,Waiting Period,Seating Availability 
+12/28/2020 16:15,Underdraduate,18-22,Male,< $28k,Live with Parents at home,MTA Transit/Subway,,60,5.5,Bronx ,Tandon,Classes,Waiting Period,Seating Availability 
+12/28/2020 16:27,Underdraduate,18-22,Male,> $100k,Dorming,Walking,Route B,7,0,Broome,Washington Square,Classes,Waiting Period,"Clean, Comfortable, Safety"
+12/28/2020 16:48,Underdraduate,18-22,Female,< $28k,Live with Parents at home,MTA Transit/Subway,,150,$5.50 ,Washington Square,Washington Square,Classes,"Waiting Period, Distance, Cost, Duration",
+12/28/2020 17:04,Underdraduate,18-22,Female,> $100k,Live on my own,NYU Bus Shuttle System,Route E,30,0,Gramercy Green,Washington Square,classes,Distance,"Clean, Safety, Seating Availability "
+12/28/2020 17:11,Underdraduate,18-22,Male,> $100k,Live on my own,MTA Transit/Subway,,20,6,Washington Square,Washington Square,Classes,"Distance, Duration",Cost
+12/28/2020 17:16,Underdraduate,18-22,Female,> $100k,Live with Parents at home,Walking,Route C,15,0,Washington Square,Washington Square,Classes,"Safety, Weather","Cost, Reliability"
+12/28/2020 17:30,Underdraduate,18-22,Female,$81k-$100k,Dorming,Walking,Route A,15,0,Penn Station ,Washington Square,Classes,Cost,Cost
+12/28/2020 17:37,Underdraduate,18-22,Female,$81k-$100k,Dorming,NYU Bus Shuttle System,Route A,25,0,Lafayette,Tandon,"Classes, Food",Unreliability ,Frequency
+12/28/2020 17:37,Underdraduate,18-22,Female,$41k-$60k,Dorming,NYU Bus Shuttle System,Route E,15,$0 ,Gramercy Green,Washington Square,Classes,Unreliability ,"Safety, Cost"
+12/28/2020 17:48,Alumni,23-28,Female,> $100k,Live on my own,Walking,Route A,20,0,Gramercy Green,Gramercy Green,Classes,Distance,Frequency
+12/28/2020 18:00,Underdraduate,18-22,Female,> $100k,Live on my own,MTA Transit/Subway,Route E,30,5.5,Washington Square,Tandon,"Classes, Food, Shopping, Work","Waiting Period, Cost, Safety",
+12/28/2020 18:06,Underdraduate,18-22,Female,$81k-$100k,Dorming,Walking,Route E,5,$0 ,Union Square,Washington Square,Classes,"Unreliability, Waiting Period","Clean, Comfortable, Safety"
+12/28/2020 18:55,Underdraduate,18-22,Male,> $100k,Live with Parents at home,MTA Transit/Subway,,20,$5.50 ,Washington Square,Washington Square,"Classes, Recreation",Cost,"Speed, Frequency "
+12/28/2020 18:58,Underdraduate,18-22,Male,$81k-$100k,Dorming,NYU Bus Shuttle System,Route A,25,0,Washington Square,Tandon,Work,Unreliability,
+12/28/2020 18:58,Underdraduate,18-22,Male,> $100k,Live on my own,MTA Transit/Subway,Route A,15,5.5,Tandon ,Washington Square,Classes,"Cost, Safety",Speed
+12/28/2020 19:50,Underdraduate,18-22,Nonbinary,> $100k,Dorming,NYU Bus Shuttle System,Route F,20,0,Gramercy Green,Washington Square,Classes,"Waiting Period, Crowdedness",Comfortable
+12/28/2020 20:14,Underdraduate,18-22,Female,> $100k,Dorming,Walking,,20,0,Gould Plaza,Washington Square,Classes,Safety,Frequency
+12/28/2020 20:17,Underdraduate,18-22,Male,$41k-$60k,Live on my own,NYU Bus Shuttle System,Route A,45,0,Washington Square,Tandon,Classes,"Unreliability, Waiting Period",Cost
+12/28/2020 20:51,Alumni,18-22,Female,$81k-$100k,Live on my own,NYU Bus Shuttle System,Route E,30,0,Washington Square,Tandon,Work,"Waiting Period, Unreliability","Clean, Safety, Seating Availability "
+12/28/2020 21:08,Underdraduate,18-22,Male,$41k-$60k,Dorming,Walking,,45,0,Washington Square,Washington Square,"Food, Shopping",Distance,"Comfortable, Safety"
+12/28/2020 21:34,Underdraduate,18-22,Male,$41k-$60k,Dorming,NYU Bus Shuttle System,Route F,10,0,Gramercy Green,Gramercy Green,Classes,Waiting Period,Frequency
+12/28/2020 21:37,Underdraduate,18-22,Female,> $100k,Dorming,Walking,,15,0,Coral Tower,Washington Square,Classes,"Distance, Weather",Comfortable
+12/28/2020 22:14,Graduate,23-28,Male,$41k-$60k,Live on my own,MTA Transit/Subway,,35,5.5,Ridgewood ,Lafayette,Classes,,Speed
+12/28/2020 22:15,Underdraduate,18-22,Female,$28k-$40k,Dorming,NYU Bus Shuttle System,Route E,60,$0 ,Gramercy Green,Washington Square,Work,Waiting Period,Speed
+12/28/2020 22:26,Underdraduate,18-22,Female,> $100k,Live on my own,Walking,,15,0,Stuyvesant Town,Washington Square,Classes,Weather,Comfortable 
+12/28/2020 23:13,Underdraduate,18-22,Male,$61k-$80k,Dorming,NYU Bus Shuttle System,Route B,30,$0 ,Broome,Washington Square,Classes,"Waiting Period, Unreliability",Seating Availability 
+12/29/2020 0:02,Underdraduate,18-22,Female,$81k-$100k,Dorming,NYU Bus Shuttle System,Route E,15,0,Gramercy Green,Washington Square,Classes,"Waiting Period, Unreliability","Cost, Reliability"
+12/29/2020 5:45,Underdraduate,18-22,Male,< $28k,Dorming,Walking,Route E,25,0,Third Ave,Washington Square,Recreation,Weather,Cost
+12/29/2020 6:40,Underdraduate,18-22,Female,> $100k,Dorming,NYU Bus Shuttle System,Route F,7,$0 ,Gramercy Green,Washington Square,Classes,Duration,"Seating Availability, Reliability"
+12/29/2020 10:43,Underdraduate,18-22,Female,< $28k,Dorming,MTA Transit/Subway,,10,5,Lafayette,Lafayette,Food,Cost,"Safety, Seating Availability"
+12/29/2020 10:49,Underdraduate,18-22,Female,> $100k,Live on my own,MTA Transit/Subway,,20,$4 ,Greenwich Village,Greenwich Village,Classes,Unreliability,"Comfortable, Seating Availability"
+12/29/2020 11:47,Underdraduate,18-22,Female,> $100k,Dorming,MTA Transit/Subway,Route A,15,4.5,Greenwich Village,Tandon,Classes,"Cost, Unreliability","Reliability, Seating Availability"
+12/29/2020 13:12,Adjunct faculty,> 40,Male,> $100k,Live on my own,Personal Vehicle,,30,0,Tandon ,Tandon,Work,Unreliability,Reliability
+12/29/2020 14:06,Underdraduate,18-22,Nonbinary,> $100k,Dorming,NYU Bus Shuttle System,Route F,20,0,Gramercy Green,Washington Square,Classes,"Waiting Period, Crowdedness",Comfortable
+12/29/2020 15:41,Underdraduate,18-22,Nonbinary,$61k-$80k,Dorming,Walking,Route B,25,$0 ,Lafayette,Penn Station,Classes,"Weather, Safety","Safety, Comfortable"
+12/30/2020 15:03,Graduate,23-28,Female,> $100k,Dorming,MTA Transit/Subway,,30,5.5,Penn Station ,Tandon,Classes ,Unreliability,"Safety, Seating Availability"
+12/30/2020 15:05,Underdraduate,18-22,Female,$28k-$40k,Live with Parents at home,MTA Transit/Subway,,60,5.5,Bronx ,Washington Square,Classes,Waiting Period,Seating Availability 
+12/31/2020 0:11,Graduate,23-28,Male,> $100k,Live on my own,MTA Transit/Subway,,20,5.5,East Village,Tandon,Classes,,Reliability
+12/31/2020 3:54,Underdraduate,18-22,Female,$61k-$80k,Live with Parents at home,MTA Transit/Subway,,80,5.5,Queens,Tandon,Classes,Duration,"Seating Availability, Reliability"
+12/31/2020 11:46,Underdraduate,18-22,Female,< $28k,Dorming,MTA Transit/Subway,Route A,25,5.5,Tandon ,Washington Square,"Shopping, Food",Safety,Reliability
+1/1/2021 17:00,Underdraduate,18-22,Female,< $28k,Live with Parents at home,NYU Bus Shuttle System,Route A,10,$0.00 ,Tandon ,Washington Square,"Classes, Food","Waiting Period, Distance, Unreliability",
+1/3/2021 0:25,Underdraduate,18-22,Male,$61k-$80k,Dorming,Personal Vehicle,Route A,15,1,Lafayette,Washington Square,Classes,Safety,Cost
+1/20/2021 13:28,Underdraduate,18-22,Female,$81k-$100k,Live with Parents at home,Taxi/ Uber/ Lyft,,30,$25 ,Queens,Tandon,Classes,Cost,Safety 
+1/20/2021 13:32,Underdraduate,18-22,Male,< $28k,Dorming,MTA Transit/Subway,,30,6,Union Square,Tandon,Classes,Unreliability,Frequency
+1/20/2021 13:36,Underdraduate,18-22,Male,$41k-$60k,Live with Parents at home,MTA Transit/Subway,,75,$5.50 ,East Elmhurst,Tandon,Work,Duration,Seating Availability. 
+1/20/2021 13:41,Underdraduate,18-22,Male,$28k-$40k,Live with Parents at home,MTA Transit/Subway,,60,5.5,Hunts Point,Hunts Point,Classes,Cost,
+1/20/2021 14:03,Underdraduate,18-22,Female,< $28k,Dorming,MTA Transit/Subway,Route A,30,5.5,Lafayette,Lafayette,"Classes, Work","Distance, Cost, Unreliability, Safety", 
+1/20/2021 14:35,Underdraduate,18-22,Male,$81k-$100k,Live with Parents at home,MTA Transit/Subway,Route A,25,5.25,Tandon ,Tandon,"Shopping, Food ",Crowdedness,"Reliability, Reliability"
+1/20/2021 14:40,Underdraduate,18-22,Male,< $28k,Dorming,Walking,Route A,20,0,Tandon ,Washington Square,"Classes, Shopping, Food",Waiting Period,Cost
+1/20/2021 16:02,Underdraduate,18-22,Male,$28k-$40k,Dorming,Taxi/ Uber/ Lyft,Route B,15,15,Tandon ,Tandon,Food,Distance,Safety
+1/20/2021 17:58,Underdraduate,18-22,Male,$28k-$40k,Dorming,MTA Transit/Subway,,30,5.5,Lafayette,Tandon,Work,"Distance, Waiting Period",Cost
+1/20/2021 20:09,Underdraduate,18-22,Male,$61k-$80k,Live with Parents at home,MTA Transit/Subway,,30,$5.50 ,Tandon ,Washington Square,Classes,Waiting Period,Frequency
+1/20/2021 20:25,Underdraduate,18-22,Female,< $28k,Live with Parents at home,MTA Transit/Subway,Route A,45,5.5,Brownsville,Tandon,Classes,Unreliability,Cost
+1/21/2021 0:21,Underdraduate,18-22,Female,$61k-$80k,Dorming,Walking,Route B,15,0,Lafayette,Washington Square,Recreation,"Distance, Safety",Comfortable
+1/21/2021 10:47,Underdraduate,18-22,Male,$28k-$40k,Live with Parents at home,MTA Transit/Subway,,150,$5.50 ,Tandon ,Tandon,Classes,Duration,
+1/21/2021 11:53,Underdraduate,18-22,Male,$28k-$40k,Live with Parents at home,MTA Transit/Subway,,45,$5.25 ,East New York,Tandon,Classes,Waiting Period,Reliability
+1/21/2021 15:05,Underdraduate,18-22,Male,$28k-$40k,Live on my own,MTA Transit/Subway,Route A,30,5.5,Lafayette,Tandon,"Classes, Work","Unreliability, Safety",
+1/21/2021 16:35,Underdraduate,18-22,Male,$61k-$80k,Dorming,MTA Transit/Subway,Route A,20,$5.50 ,Lafayette,Tandon,"Classes, Work, Food",Waiting period ,"Clean, Safety, Seating Availability"
+1/21/2021 20:34,Underdraduate,18-22,Male,$61k-$80k,Live with Parents at home,MTA Transit/Subway,,50,5.5,East Elmhurst,Tandon,Classes,Waiting period,Seating Availability
+1/22/2021 17:14,Underdraduate,18-22,Female,$61k-$80k,Dorming,MTA Transit/Subway,Route A,15,5.25,Tandon ,Washington Square,Food,Cost,Frequency
+1/22/2021 20:34,Underdraduate,18-22,Male,$61k-$80k,Live with Parents at home,MTA Transit/Subway,,90,$20 ,Brentwood  ,Tandon,Classes,"Duration, Distance, Cost, Waiting Period",
+1/23/2021 4:06,Underdraduate,18-22,Male,> $100k,Dorming,MTA Transit/Subway,Route F,30,5.5,Gramercy Green,Tandon,Classes,Crowdedness,Reliability
+1/28/2021 3:51,Underdraduate,18-22,Female,$28k-$40k,Live with Parents at home,MTA Transit/Subway,Route A,90,$5.50 ,Bronx ,Bronx,Classes,Unreliability,Seating Availability
+1/28/2021 9:41,Underdraduate,18-22,Male,< $28k,Dorming,Walking,Route B,60,$0 ,Lafayette,Lafayette,Food,Duration,Cost
+1/28/2021 10:39,Underdraduate,18-22,Female,$28k-$40k,Live with Parents at home,MTA Transit/Subway,Route A,90,$5.50 ,Bronx ,Bronx,Classes,Unreliability,Seating Availability
